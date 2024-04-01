@@ -1,5 +1,7 @@
+.vscode
 .devcontainer/
 .codesandbox/
 node_modules
-.vscode
-dist
+.DS_Store
+.env
+dist/

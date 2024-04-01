@@ -8,8 +8,10 @@ export default function App() {
       <TopBar>React Components are state machines</TopBar>
       <h1 className="headline white-text">_ ^ _ Stateful Bookstore _ ^ _</h1>
       <Counter item="Book" initialValue={3}/>
-      <Counter item="Customer" initialValue={12}/>
+      {/* <Counter item="Customer" initialValue={12}/>
       <Counter item="Employee" initialValue={24}/>
+      <Counter item="Manager" initialValue={2}/>
+      <Counter item="Stock" initialValue={8}/> */}
       <br />
       <hr />
       <NameInput />
